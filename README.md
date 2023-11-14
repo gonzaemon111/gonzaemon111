@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails, Flutter, Next.js**
 
-- 👨‍💻 All of my projects are available at [https://gonzaemon.site/](https://gonzaemon.site/)
+- 👨‍💻 All of my projects are available at [https://gonzaemon.dev/](https://gonzaemon.dev/)
 
 - 💬 Ask me about **Ruby on Rails**
 

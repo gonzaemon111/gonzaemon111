@@ -5,14 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gonzaemon111" alt="gonzaemon111" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby on Rails, Flutter, Next.js**
-
-- 👨‍💻 All of my projects are available at [https://gonzaemon.dev/](https://gonzaemon.dev/)
-
-- 💬 Ask me about **Ruby on Rails**
-
-- 📫 How to reach me **gonzaemon@gonzaemon.page**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
